@@ -1,6 +1,6 @@
 {
   "name": "can-control-processor-capture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An event processor for CanJS",
   "main": "capture.js",
   "scripts": {
