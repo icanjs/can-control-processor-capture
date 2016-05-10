@@ -1,0 +1,17 @@
+{
+  "name": "can-control-processor-capture",
+  "version": "1.0.0",
+  "description": "An event processor for CanJS",
+  "main": "capture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bitovi",
+  "license": "ISC",
+  "dependencies": {
+    "can": "^2.3.0-pre || ^2.3.0-beta || ^2.3.0"
+  },
+  "devDependencies": {
+    "steal": ">=0.10.1"
+  }
+}
